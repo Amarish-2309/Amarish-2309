@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking for **Software Developer**
+- 👯 I’m looking for **Software Developer Role**
 
 - 💬 Ask me about **Data Analytics ,Cloud Computing**
 
