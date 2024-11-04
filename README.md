@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently Studying in **Vellore Institute of Technology, Bhopal**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking for **Data Analyst Job**
+- 👯 I’m looking for **Software Developer**
 
-- 💬 Ask me about **Data Analytics , Front-End Frameworks**
+- 💬 Ask me about **Data Analytics ,Cloud Computing**
 
 - 📫 How to reach me **amarish2309@gmail.com**
 
